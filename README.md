@@ -27,7 +27,7 @@ This will help me:
 
 | Day | Topic | Handwritten Notes |
 |-----|-------|--------------------|
-| Day 1 | Introduction to System Design | ✅ lecture-01.pdf |
+| Day 1 | Introduction to System Design | ✅ [lecture-01.pdf](https://drive.google.com/file/d/1aAP3jTjZgT9JptkKLhVSdm_-JLsH2yEA/view?usp=drive_link) |
 | Day 2 | OOPs (Abstarction and Encapsulation) | ✅ lecture-02.pdf |
 | Day 3 | OOPs (Inheritance and Polymorphism) | ✅ lecture-03.pdf |
 | Day 4 | What are UML Diagrams? | ✅ lecture-04.pdf |
