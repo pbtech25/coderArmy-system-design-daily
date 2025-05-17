@@ -15,7 +15,10 @@ This repo documents my day-by-day learning journey of **System Design**, based o
 
 ## 🖋️ Handwritten Notes
 
-I'm dedicating time daily to master these topics and am using this space to upload my handwritten notes for each lecture in the `handwritten-notes/` folder. These provide raw insights and quick recall visuals straight from my study sessions.
+I'm dedicating time daily to master these topics and am using this space to upload my handwritten notes for each lecture here: [System Design - Handwritten Notes](https://drive.google.com/drive/folders/1cV_IFmY8QthZJlH6pEF55RqlN1r5t-r8?usp=sharing) folder. 
+
+> ⚠️ Note: You can always find lecture-wise handwritten notes from Daily Progress Log's clickable link!
+
 
 This will help me:
 - Track my consistency and growth
