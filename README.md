@@ -1,15 +1,15 @@
 # 🛠️ Coder Army - System Design Daily
 
 Welcome to my **Coder Army - System Design Daily** repository!  
-This repo documents my day-by-day learning journey of **System Design**, based on tutorials taught by **Aditya Tandon** on the **Coder Army** YouTube channel (run by Rohit Negi). It includes core concepts, architecture breakdowns, diagrams, handwritten notes, and practical case studies.
+This repo documents my day-by-day learning journey of **System Design**, based on tutorials taught by [**Aditya Tandon Sir**](https://www.linkedin.com/in/adityatandon2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B31XYqLkHQouiNrxhKfF4Qg%3D%3D) on the [**Coder Army**](https://www.youtube.com/@CoderArmy9) YouTube channel (run by Rohit Negi Sir). It includes core concepts, architecture breakdowns, diagrams, handwritten notes, and practical case studies.
 
 ---
 
-## 📚 Why This Repo?
+## 🖋️ Handwritten Notes
 
-System Design is a crucial skill for building scalable and efficient software systems. I'm dedicating time daily to master these topics and am using this space to:
-- Reinforce my learning through structured notes and examples
-- Share insights with fellow developers
+I'm dedicating time daily to master these topics and am using this space to upload my handwritten notes for each lecture in the `handwritten-notes/` folder. These provide raw insights and quick recall visuals straight from my study sessions.
+
+This will help me:
 - Track my consistency and growth
 - Maintain a record of my **handwritten notes** alongside lecture-wise topics
 
@@ -24,12 +24,6 @@ System Design is a crucial skill for building scalable and efficient software sy
 | Day 3 | OOPs (Inheritance and Polymorphism) | ✅ lecture-03.pdf |
 | Day 4 | What are UML Diagrams? | ✅ lecture-04.pdf |
 | Day 5 | S.O.L.I.D Design Principles | ✅ lecture-05.pdf |
-
----
-
-## 🖋️ Handwritten Notes
-
-I’ll be uploading my handwritten notes for each lecture in the `handwritten-notes/` folder. These provide raw insights and quick recall visuals straight from my study sessions.
 
 ---
 
